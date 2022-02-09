@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+string_dtm/__init__.py
+string_dtm/conn.py
+string_dtm.egg-info/PKG-INFO
+string_dtm.egg-info/SOURCES.txt
+string_dtm.egg-info/dependency_links.txt
+string_dtm.egg-info/not-zip-safe
+string_dtm.egg-info/top_level.txt

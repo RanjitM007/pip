@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+string_dt.egg-info/PKG-INFO
+string_dt.egg-info/SOURCES.txt
+string_dt.egg-info/dependency_links.txt
+string_dt.egg-info/not-zip-safe
+string_dt.egg-info/top_level.txt
+string_dtm/__init__.py
+string_dtm/conn.py
